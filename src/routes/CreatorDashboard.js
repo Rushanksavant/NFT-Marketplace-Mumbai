@@ -81,7 +81,7 @@ export default function CreatorDash() {
                                             {nft.description}
                                         </Card.Text>
                                         <Card.Text>
-                                            Latest Price- {nft.price} ETH
+                                            Latest Price- {nft.price} Matic
                                         </Card.Text>
                                     </Card.Body>
                                 </Card>

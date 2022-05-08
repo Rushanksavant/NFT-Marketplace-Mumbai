@@ -103,7 +103,7 @@ export default function App() {
                         {nft.description}
                       </Card.Text>
                       <Card.Text>
-                        {nft.price} ETH
+                        {nft.price} Matic
                       </Card.Text>
                       <Button variant="danger" onClick={() => buyNFT(nft)}>Buy</Button>
                     </Card.Body>

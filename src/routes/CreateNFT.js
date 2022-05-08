@@ -143,7 +143,7 @@ export default function CreateNFT() {
                 </Form.Group>
 
                 <Form.Group className="mb-3 mt-3 ms-5 me-5 pe-5">
-                    <Form.Control placeholder="ETH" onChange={e => updateFormInput({ ...formInput, price: e.target.value })} />
+                    <Form.Control placeholder="Matic" onChange={e => updateFormInput({ ...formInput, price: e.target.value })} />
                 </Form.Group>
 
                 <Form.Group controlId="formFilelg" className="mb-3 mt-3 ms-5 me-5 pe-5">
